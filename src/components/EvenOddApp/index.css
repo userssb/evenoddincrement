@@ -1,0 +1,19 @@
+.bg-cont {
+  display: flex;
+  background-color: beige;
+  justify-content: center;
+  align-items: center;
+}
+.app-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  height: 300px;
+  width: 350px;
+  border-radius: 15px;
+}
+.button {
+  border-radius: 5px;
+}
